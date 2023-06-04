@@ -1,6 +1,6 @@
 # QR code component
 
-![preview](./image/print.png)
+![preview](./images/print.png)
 
 [🔗 Clique aqui para acessar](https://danielsrbueno.github.io/frontendmentor-qrcode/)
 
